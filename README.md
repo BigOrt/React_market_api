@@ -1,6 +1,7 @@
 Still under development!.
 
 ## marketcap api with react
+.env
 ```
 REACT_APP_API_KEY_MARKETCAP=
 REACT_APP_crossanywhere=
